@@ -256,8 +256,8 @@ for ($i=0; $i<count($prob); $i++) {
         <div class="col">
           <div class="card">
             <!-- Card header -->
-            <div class="card-header border-0">
-              <h3 class="mb-0">Users list</h3>
+            <div class="card-header bg-primary border-0">
+              <h3 class="mb-0">Problems list</h3>
             </div>
             <!-- Light table -->
             
